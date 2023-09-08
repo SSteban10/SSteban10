@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Morales</h1>
 <h3 align="center">Mathematics student with focus on data analytics learning</h3>
 
+Soy estudiante de matemáticas hace más de dos años (2020).
+
+En 2022 empece a investigar y apasionarme por la programacion, el lenguaje con el que desee iniciar fue python me parecion algo sencillo y diferente para inciar, ahi inicio mi deseo de crecer como profesional dentro de la industria del desarrollo de software, analisis de datos y en un futuro en la industria de los videojuegos.
+
+Desde entonces me he dedicado a aprender Git, SQl, Python, Power BI. 
+
+Aqui sigo con ganas de seguir agregando a este texto cada dia más...
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssteban10&label=Profile%20views&color=0e75b6&style=flat" alt="ssteban10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ssteban_10" target="blank"><img src="https://img.shields.io/twitter/follow/ssteban_10?logo=twitter&style=for-the-badge" alt="ssteban_10" /></a> </p>
